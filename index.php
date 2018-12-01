@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title>Welcome to e13slack</title>
+	<title>Welcome to Slotify</title>
 </head>
 <body>
 	Hello!
